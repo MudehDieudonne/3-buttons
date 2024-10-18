@@ -23,12 +23,14 @@ button {
   color: #fff;
   transform: translateY(-7px);
 }
+
 .btn2:hover {
   background-color: #c42331;
   box-shadow: 12px 15px 20px rgb(355 78% 54% / 40%);
   color: #fff;
   transform: translateY(-7px);
 }
+
 .btn3:hover {
   background-color: #d3d022;
   box-shadow: 12px 15px 20px rgb(66 78% 54% / 40%);
