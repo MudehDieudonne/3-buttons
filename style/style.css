@@ -1,0 +1,43 @@
+/* From Uiverse.io by cssbuttons-io */
+button {
+  padding: 1.3em 3em;
+  margin: 3em auto;
+  display: block;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 7px 8px 15px rgb(0 0% 0% / 10%);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+}
+
+.btn1:hover {
+  background-color: #23c483;
+  box-shadow: 12px 15px 20px rgb(156 78% 54% / 40%);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.btn2:hover {
+  background-color: #c42331;
+  box-shadow: 12px 15px 20px rgb(355 78% 54% / 40%);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.btn3:hover {
+  background-color: #d3d022;
+  box-shadow: 12px 15px 20px rgb(66 78% 54% / 40%);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+button:active {
+  transform: translateY(-1px);
+}
